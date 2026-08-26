@@ -6,11 +6,11 @@ This project is based on the analysis of supply chain data using Power BI. The m
 I worked with the available data, explored the key metrics, and created an interactive Power BI dashboard to make the information easier to understand and use for decision-making.
 
 ## What I Wanted to Analyze
->Sales and overall supply chain performance
->Inventory levels and related trends
->Supplier performance
->Delivery performance
->Important supply chain KPIs
+>Sales Performance
+>Inventory Levels
+>Supplier Performance
+>Delivery Performance
+>Supply Chain KPIs
 >Areas where performance could be improved
 
 ## Tools Used
